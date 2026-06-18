@@ -1,7 +1,7 @@
 # Shape or Color? A CNN Robustness Study on Fruit & Vegetable Recognition
 
 **Assignment 4 · Task 2 — Introduction to Data Science · University of Tehran**  
-Designed by [Maryam Vali](https://github.com/Marievli) · TAs: Behrad Binaei Haghighi, Mehrad Liviyan, Maryam Vali  
+Designed by [Maryam Vali](https://github.com/Marievli) 
 Instructors: Dr. Razavi, Dr. Yaghoobzadeh
 
 ---
